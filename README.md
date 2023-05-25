@@ -7,4 +7,6 @@ Project 2 repository
 
 ## create_dtabase.sql has the create database script.
 
-##campaign_select.png,category_select.png and sub_category_select.png has screenshot of the select query run after import data from the generated csv files.
+## campaign_select.png,category_select.png and sub_category_select.png has screenshot of the select query run after import data from the generated csv files.
+
+## contacts.csv has cleaned dataframe with data from contacts.xlsx
